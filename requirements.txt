@@ -1,3 +1,4 @@
+streamlib
 blis==0.7.9
 catalogue==2.0.8
 charset-normalizer==3.0.1
