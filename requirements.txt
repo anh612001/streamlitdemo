@@ -1,0 +1,47 @@
+blis==0.7.9
+catalogue==2.0.8
+certifi @ file:///C:/b/abs_85o_6fm0se/croot/certifi_1671487778835/work/certifi
+charset-normalizer==3.0.1
+click==7.1.2
+colorama==0.4.6
+confection==0.0.4
+cymem==2.0.7
+idna==3.4
+ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0/ja_core_news_sm-3.0.0-py3-none-any.whl
+Jinja2==3.1.2
+joblib==1.2.0
+langcodes==3.3.0
+MarkupSafe==2.1.2
+murmurhash==1.0.9
+numpy==1.24.1
+packaging==23.0
+pathy==0.10.1
+preshed==3.0.8
+pydantic==1.8.2
+python-crfsuite==0.9.8
+pyvi==0.1.1
+requests==2.28.2
+scikit-learn==1.2.1
+scipy==1.10.0
+sentencepiece==0.1.97
+six==1.16.0
+sklearn-crfsuite==0.3.6
+smart-open==6.3.0
+spacy==3.0.9
+spacy-legacy==3.0.12
+spacy-loggers==1.0.4
+srsly==2.4.5
+SudachiDict-core==20230110
+SudachiPy==0.6.6
+tabulate==0.9.0
+thinc==8.0.17
+threadpoolctl==3.1.0
+torch==1.13.1
+torchtext==0.6.0
+tqdm==4.64.1
+typer==0.3.2
+typing_extensions==4.4.0
+urllib3==1.26.14
+vi-core-news-lg @ https://gitlab.com/trungtv/vi_spacy/-/raw/master/vi_core_news_lg/dist/vi_core_news_lg-0.0.1.tar.gz
+wasabi==0.10.1
+wincertstore==0.2
